@@ -77,4 +77,6 @@ Client-server chat applications are foundational to real-time communication over
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
+<img width="2880" height="1800" alt="Screenshot 2026-04-29 113445" src="https://github.com/user-attachments/assets/85884fec-6194-4e1c-8cfa-fcf39b7bd387" />
+<img width="2880" height="1800" alt="Screenshot 2026-04-29 113458" src="https://github.com/user-attachments/assets/bd097c4e-274a-480b-bfd4-1c54d9eab791" />
 
